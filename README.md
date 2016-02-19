@@ -1,2 +1,3 @@
-# auguribroken.github.com
-Tanti auguri Gondolino amoroso du du da da da!
+# Auguri Broken! 
+
+Un semplice sito dove fare auguri equilibrati, composti e amorevoli al nostro Gondolino Amoroso Dù Dù Dà Dà Dà.

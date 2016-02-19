@@ -1,0 +1,10 @@
+# Site settings
+title: Broken, un nome un MIAOOOOOO!
+tag_text: Broken Birthday
+description: Broken, anche detto Gondola, è un tenero esemplare di di sardo-vicentin-venesian che oggi festeggia il compleanno. Aiutalo a festeggiare come si conviene!
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
