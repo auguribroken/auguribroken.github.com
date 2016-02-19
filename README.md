@@ -1,5 +1,3 @@
-# Solo 
+# Auguri Broken! 
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
-
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+Un semplice sito dove fare auguri equilibrati, composti e amorevoli al nostro Gondolino Amoroso Dù Dù Dà Dà Dà.
